@@ -7,7 +7,7 @@
 
 ## Developer
 
-+ [Clowned](https://www.facebook.com/terryseytu)
++ [Clowned](https://www.facebook.com/happydaysgone)
 
 ## Links
 
@@ -27,7 +27,7 @@
 
 ## Normas obligatorias
 
-- El trabajo y desarrollo de MonsterCore434 es unico y exclusivo del programador principal [Clowned](https://www.facebook.com/terryseytu).
+- El trabajo y desarrollo de MonsterCore434 es unico y exclusivo del programador principal [Clowned](https://www.facebook.com/happydaysgone).
 - Todo reporte sera fixeado en orden de urgencia.
 
 ## Apoyo al area c++
