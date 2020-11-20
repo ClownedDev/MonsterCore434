@@ -1,3 +1,4 @@
 #Fix Ping Pong Event Zonozz
 #Fix (Core/Misc): Other fix for langScript
 #(Core/Movement): Added mmaps movement Split
+#fix (Core/Spell): Fix Spell Orbe Pirofrio, added missing lines in code. Vanish and Stealth work better now need more cheks but its totally playable
