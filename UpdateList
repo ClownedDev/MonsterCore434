@@ -3,3 +3,4 @@
 #(Core/Movement): Added mmaps movement Split
 #fix (Core/Spell): Fix Spell Orbe Pirofrio, added missing lines in code. Vanish and Stealth work better now need more cheks but its totally playable
 #fix (Core/Spell): Fix Rune weapon Daning, now its non selectable and not attackable
+#fix (Core/Spell): Fix scaling stats atack power in all cases
