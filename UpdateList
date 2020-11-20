@@ -5,3 +5,4 @@
 #fix (Core/Spell): Fix Rune weapon Daning, now its non selectable and not attackable
 #fix (Core/Spell): Fix scaling stats atack power in all cases
 #fix (Core/Spell): Fix effect glyph '59309' work fine now
+#fix (Core/Spell): Fix Gagoyle dk, now find enemy. Works fine
