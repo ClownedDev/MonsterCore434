@@ -15,6 +15,9 @@
 + Description: descripcion del bug o exploit
 + Como se produce el fallo: Como se genera el bug o exploit
 
+- [WebSite](https://www.wow-monster.com)
+- [Discord](https://discord.gg/Cxu4sEDjYy)
+- [Facebook](https://www.facebook.com/MwowOficial/)
 - [Reporte de bugs](https://github.com/ClownedDev/MonsterCore434/issues)
 
 ## Licencia
