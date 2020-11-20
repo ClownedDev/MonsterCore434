@@ -22,8 +22,8 @@
 
 ## Licencia
 
-+ Las fuentes antiguas basadas en MaNGOS / TrinityCore se publican bajo [GNU GPL v2](https://)
-+ Los nuevos componentes fuente de MonsterCore434 se lanzan bajo [GNU AGPL v3](https://)
++ Las fuentes antiguas basadas en MaNGOS / TrinityCore se publican bajo [GNU GPL v2](https://github.com/ClownedDev/MonsterCore434/blob/main/LICENSE-GPL2)
++ Los nuevos componentes fuente de MonsterCore434 se lanzan bajo [GNU AGPL v3](https://github.com/ClownedDev/MonsterCore434/blob/main/LICENSE-AGPL3)
 
 ## Normas obligatorias
 
