@@ -1,4 +1,4 @@
-# ![logo](https://) MonsterCore434
+# ![logo](https://github.com/ClownedDev/MonsterCore434/blob/main/GitHub.png) MonsterCore434
 
 ## Introduction
 
