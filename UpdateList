@@ -7,3 +7,4 @@
 #fix (Core/Spell): Fix effect glyph '59309' work fine now
 #fix (Core/Spell): Fix Gagoyle dk, now find enemy. Works fine
 #fix (Core/Spell): Fix Glyph Psychic Scream, work now and tested
+#Delete trash commands, update sql and delete trash file, commit spam console innecesary
