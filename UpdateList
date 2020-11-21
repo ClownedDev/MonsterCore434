@@ -8,3 +8,4 @@
 #fix (Core/Spell): Fix Gagoyle dk, now find enemy. Works fine
 #fix (Core/Spell): Fix Glyph Psychic Scream, work now and tested
 #Delete trash commands, update sql and delete trash file, commit spam console innecesary
+#Fix (Core/Unit):initial letter in player names
