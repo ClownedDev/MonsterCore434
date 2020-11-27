@@ -10,3 +10,4 @@
 #Delete trash commands, update sql and delete trash file, commit spam console innecesary
 #Fix (Core/Unit):initial letter in player names
 #Core/Battlegrounds: Fix log errors about creatures not found Move 'Battleground::GetBGCreature: creature not found for BG' error log to INFO level when the caller expects no creatures to be found, like on Battleground startup.
+#(Misc/Archeology): Added loading of zones and loot from the base.
