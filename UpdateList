@@ -21,4 +21,5 @@
 #(Core/Packages): Fixed SMSG_MOVE_SET_CAN_TRANSITION_BETWEEN_SWIM_AND_FLY and SMSG_MOVE_UNSET_CAN_TRANSITION_BETWEEN_SWIM_AND_FLY
 #(cripts/Items): Fixed Elixir of Battle item.
 #(Kernel/Misc): Added config option for acceleration
-#(Base/Items): Fixed "Vial of the Sands" item.
+#(Base/Items): Fixed 'Vial of the Sands' item.
+#(Core/Spells): Fixed the effect of the guild skill 'Guild Mail'.
