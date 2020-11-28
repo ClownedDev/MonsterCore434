@@ -20,3 +20,4 @@
 #(Core/Spells Paladin): Fixed the damage of Templar's Verdict
 #(Core/Packages): Fixed SMSG_MOVE_SET_CAN_TRANSITION_BETWEEN_SWIM_AND_FLY and SMSG_MOVE_UNSET_CAN_TRANSITION_BETWEEN_SWIM_AND_FLY
 #(cripts/Items): Fixed Elixir of Battle item.
+#(Kernel/Misc): Added config option for acceleration
