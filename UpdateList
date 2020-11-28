@@ -12,3 +12,4 @@
 #Core/Battlegrounds: Fix log errors about creatures not found Move 'Battleground::GetBGCreature: creature not found for BG' error log to INFO level when the caller expects no creatures to be found, like on Battleground startup.
 #(Misc/Archeology): Added loading of zones and loot from the base.
 #(Core/Archeology): Added handlers and player loading.
+#(Core/Misc): Added filtering for guild items from vendors.
