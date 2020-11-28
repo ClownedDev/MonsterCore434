@@ -13,3 +13,4 @@
 #(Misc/Archeology): Added loading of zones and loot from the base.
 #(Core/Archeology): Added handlers and player loading.
 #(Core/Misc): Added filtering for guild items from vendors.
+#(Kernel/Misc): Added a new feature for future fixes
