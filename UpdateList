@@ -16,3 +16,4 @@
 #(Kernel/Misc): Added a new feature for future fixes
 #(Misc/Items): Fixed Cauldron of War and Great Cauldron of War items.
 #(Core/Misc): Fixed max values ​​for different powers.
+#(Core/Misc): fixed cost calculation for spells using holy_power.
