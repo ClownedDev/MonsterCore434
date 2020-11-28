@@ -14,3 +14,4 @@
 #(Core/Archeology): Added handlers and player loading.
 #(Core/Misc): Added filtering for guild items from vendors.
 #(Kernel/Misc): Added a new feature for future fixes
+#(Misc/Items): Fixed Cauldron of War and Great Cauldron of War items.
