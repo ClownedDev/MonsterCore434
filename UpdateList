@@ -18,3 +18,4 @@
 #(Core/Misc): Fixed max values ​​for different powers.
 #(Core/Misc): fixed cost calculation for spells using holy_power.
 #(Core/Spells Paladin): Fixed the damage of Templar's Verdict
+#(Core/Packages): Fixed SMSG_MOVE_SET_CAN_TRANSITION_BETWEEN_SWIM_AND_FLY and SMSG_MOVE_UNSET_CAN_TRANSITION_BETWEEN_SWIM_AND_FLY
