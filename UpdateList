@@ -24,3 +24,4 @@
 #(Base/Items): Fixed 'Vial of the Sands' item.
 #(Core/Spells): Fixed the effect of the guild skill 'Guild Mail'.
 #(Core/Items): Fixed throwing weapon use
+#(Core/Quests): QuestFailedReasons 1 reason
