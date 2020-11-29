@@ -26,3 +26,4 @@
 #(Core/Items): Fixed throwing weapon use
 #(Core/Quests): QuestFailedReasons 1 reason
 #(Kernel/Misc): Extra argument removed
+#(Base/Miscellaneous): Fixed access to 5pp cataclysm dungeons.
