@@ -27,3 +27,4 @@
 #(Core/Quests): QuestFailedReasons 1 reason
 #(Kernel/Misc): Extra argument removed
 #(Base/Miscellaneous): Fixed access to 5pp cataclysm dungeons.
+#(Base/Spells): fixed order of displaying guild navs
