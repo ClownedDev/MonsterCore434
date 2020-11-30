@@ -30,3 +30,4 @@
 #(Base/Spells): fixed order of displaying guild navs
 #(Core/Spells): Fixed guild skill 'Everybody here'.
 #(Core/Items): Fixed Firefly Heart item.
+#(Core/Spells Druid): Tweaks to work with eclipses.
