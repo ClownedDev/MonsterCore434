@@ -31,3 +31,4 @@
 #(Core/Spells): Fixed guild skill 'Everybody here'.
 #(Core/Items): Fixed Firefly Heart item.
 #(Core/Spells Druid): Tweaks to work with eclipses.
+#(Core/Spells/Hunter/Rogue): Fixed Camouflage spell and fixes to Smoke Bomb
