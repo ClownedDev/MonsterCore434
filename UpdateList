@@ -34,3 +34,4 @@
 #(Core/Spells/Hunter/Rogue): Fixed Camouflage spell and fixes to Smoke Bomb
 #(Core/Spells/Hunter): Fixed Steady Shot gaining focus and Termination talent affecting it
 #(Core/Spells/Hunter): Fixed getting focus from Cobra Shot and the effect of Termination talent on it
+#(Core/Spell): Fix Bladestorm, Second Wind,
