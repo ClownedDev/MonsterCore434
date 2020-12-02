@@ -36,3 +36,4 @@
 #(Core/Spells/Hunter): Fixed getting focus from Cobra Shot and the effect of Termination talent on it
 #(Core/Spell): Fix Bladestorm, Second Wind,
 #(Core/Auras): Fixed work of 150 and 158 auras
+#(Core/Auras): Fix 366 Aura
