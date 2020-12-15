@@ -39,3 +39,4 @@
 #(Core/Auras): Fix 366 Aura
 #(Core/Icc): Fixed cannon gunship battle
 #fix (Core/Misc): Fix Elevator in Lady DeathWhisper, fix worldchat icon in alliance CASE
+#fix (Core/Icc): Fix correct movement in Boss Muradin, correct despawn and add more cheks for cannon gunship
