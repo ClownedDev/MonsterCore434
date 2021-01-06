@@ -42,3 +42,4 @@
 #fix (Core/Icc): Fix correct movement in Boss Muradin, correct despawn and add more cheks for cannon gunship
 #(Core/Misc): Added new function and prepare Valithria Script
 #fix (Core/Icc): Fix Event last Valithria, work now
+#fix (Core/Misc): Fixed the cooldown of special profession spells.
