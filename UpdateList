@@ -45,3 +45,4 @@
 #fix (Core/Misc): Fixed the cooldown of special profession spells.
 #fix (Core/Spells)Fix  Death Knight: fixed the healing of the 'Death Strike' spell, fixed the damage and healing of the 'Death Coil' spell, fixed the 'Chilblains' talent.
 #(Core/Auras): implemented 344 aura (SPELL_AURA_MOD_AUTOATTACK_DAMAGE)
+#(Core/Spell/Warrior): Fix Victory rush, Glyph of Victory Rush
