@@ -50,3 +50,4 @@
 #(Database): Added misc sql for ICC. Work fine all events in Normal and Heroic Mode but need more cheks and more works future
 #Update New web private CMS MONSTER.
 #(WebSite): Fix RealmStatus work fine now.
+#(WebSite): Fix Links in all WebSite, work fine.
