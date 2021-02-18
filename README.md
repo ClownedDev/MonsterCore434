@@ -1,8 +1,8 @@
-# ![logo](https://github.com/ClownedDev/MonsterCore434/blob/main/GitHub.png) MonsterCore434
+# ![logo](https://github.com/ClownedDev/Release-Project/blob/main/GitHub.png) Release-Project
 
 ## Introduction
 
-- MonsterCore434 © 2020, es un proyecto privado basado en TrinityCore. 
+- Release-Project © 2021, es un proyecto privado basado en TrinityCore. 
 - Estamos constantemente actualizando y mejorando nuestro trabajo.
 
 ## Developer
@@ -15,19 +15,19 @@
 + Description: descripcion del bug o exploit
 + Como se produce el fallo: Como se genera el bug o exploit
 
-- [WebSite](https://www.wow-monster.com)
-- [Discord](https://discord.gg/Cxu4sEDjYy)
-- [Facebook](https://www.facebook.com/MwowOficial/)
-- [Reporte de bugs](https://github.com/ClownedDev/MonsterCore434/issues)
+- [WebSite](https://www.wowrelease.com/)
+- [Discord](https://discord.gg/H5GQ7HF)
+- [Facebook](https://www.facebook.com/wowreleaseoficial)
+- [Reporte de bugs](https://github.com/ClownedDev/Release-Project/issues)
 
 ## Licencia
 
-+ Las fuentes antiguas basadas en MaNGOS / TrinityCore se publican bajo [GNU GPL v2](https://github.com/ClownedDev/MonsterCore434/blob/main/LICENSE-GPL2)
-+ Los nuevos componentes fuente de MonsterCore434 se lanzan bajo [GNU AGPL v3](https://github.com/ClownedDev/MonsterCore434/blob/main/LICENSE-AGPL3)
++ Las fuentes antiguas basadas en MaNGOS / TrinityCore se publican bajo [GNU GPL v2](https://github.com/ClownedDev/Release-Project/blob/main/LICENSE-GPL2)
++ Los nuevos componentes fuente de Release-Project se lanzan bajo [GNU AGPL v3](https://github.com/ClownedDev/Release-Project/blob/main/LICENSE-AGPL3)
 
 ## Normas obligatorias
 
-- El trabajo y desarrollo de MonsterCore434 es unico y exclusivo del programador principal [Clowned](https://www.facebook.com/happydaysgone).
+- El trabajo y desarrollo de Release-Project es unico y exclusivo del programador principal [Clowned](https://www.facebook.com/happydaysgone).
 - Todo reporte sera fixeado en orden de urgencia.
 
 ## Apoyo al area c++
