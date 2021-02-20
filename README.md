@@ -16,7 +16,7 @@
 + Como se produce el fallo: Como se genera el bug o exploit
 
 - [WebSite](https://www.wowrelease.com/)
-- [Discord](https://discord.gg/H5GQ7HF)
+- [Discord](https://discord.gg/8pcFYwdR4W)
 - [Facebook](https://www.facebook.com/wowreleaseoficial)
 - [Reporte de bugs](https://github.com/ClownedDev/Release-Project/issues)
 
